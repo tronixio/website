@@ -2,142 +2,138 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://www.tronix.io/</loc>
-         <lastmod>2024-07-03</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2026-04-26</lastmod>
     </url>
     <url>
          <loc>https://www.tronix.io/audio/</loc>
-         <lastmod>2024-07-03</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2026-04-26</lastmod>
     </url>
     <url>
          <loc>https://www.tronix.io/audio/dac/</loc>
-         <lastmod>2024-07-03</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2026-04-26</lastmod>
     </url>
     <url>
          <loc>https://www.tronix.io/audio/headphone/</loc>
-         <lastmod>2024-07-03</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2026-04-26</lastmod>
+    </url>
+    <url>
+         <loc>https://www.tronix.io/audio/psu/psrd-2596-50/</loc>
+         <lastmod>2026-04-26</lastmod>
+    </url>
+    <url>
+         <loc>https://www.tronix.io/audio/psu/pss-10va/</loc>
+         <lastmod>2026-04-26</lastmod>
+    </url>
+    <url>
+         <loc>https://www.tronix.io/audio/psu/pss-25va/</loc>
+         <lastmod>2026-04-26</lastmod>
+    </url>
+    <url>
+         <loc>https://www.tronix.io/audio/psu/psu-10va/</loc>
+         <lastmod>2026-04-26</lastmod>
+    </url>
+    <url>
+         <loc>https://www.tronix.io/audio/psu/psu-25va/</loc>
+         <lastmod>2026-04-26</lastmod>
     </url>
     <url>
          <loc>https://www.tronix.io/misc/</loc>
-         <lastmod>2024-07-03</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2026-04-26</lastmod>
     </url>
     <url>
          <loc>https://www.tronix.io/misc/capacitors/</loc>
-         <lastmod>2024-07-03</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2026-04-26</lastmod>
     </url>
     <url>
          <loc>https://www.tronix.io/misc/resistors/</loc>
-         <lastmod>2024-07-03</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2026-04-26</lastmod>
     </url>
     <url>
          <loc>https://www.tronix.io/modules/</loc>
-         <lastmod>2024-07-03</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2026-04-26</lastmod>
+    </url>
+    <url>
+         <loc>https://www.tronix.io/modules/gpio/</loc>
+         <lastmod>2026-04-26</lastmod>
     </url>
     <url>
          <loc>https://www.tronix.io/pic-16bit/</loc>
-         <lastmod>2024-07-03</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2026-04-26</lastmod>
     </url>
     <url>
          <loc>https://www.tronix.io/pic-16bit/micro/</loc>
-         <lastmod>2024-07-03</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2026-04-26</lastmod>
     </url>
     <url>
          <loc>https://www.tronix.io/pic-16bit/mini/</loc>
-         <lastmod>2024-07-03</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2026-04-26</lastmod>
     </url>
     <url>
          <loc>https://www.tronix.io/pic-16bit/nano/</loc>
-         <lastmod>2024-07-03</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2026-04-26</lastmod>
     </url>
     <url>
          <loc>https://www.tronix.io/pic-16bit/trainer/</loc>
-         <lastmod>2024-07-03</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2026-04-26</lastmod>
     </url>
     <url>
          <loc>https://www.tronix.io/pic-8bit/</loc>
-         <lastmod>2024-07-03</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2026-04-26</lastmod>
     </url>
     <url>
          <loc>https://www.tronix.io/pic-8bit/micro/</loc>
-         <lastmod>2024-07-03</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2026-04-26</lastmod>
     </url>
     <url>
          <loc>https://www.tronix.io/pic-8bit/mini/</loc>
-         <lastmod>2024-07-03</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2026-04-26</lastmod>
     </url>
     <url>
          <loc>https://www.tronix.io/pic-8bit/nano/</loc>
-         <lastmod>2024-07-03</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2026-04-26</lastmod>
     </url>
     <url>
          <loc>https://www.tronix.io/pic-8bit/trainer/</loc>
-         <lastmod>2024-07-03</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2026-04-26</lastmod>
     </url>
     <url>
          <loc>https://www.tronix.io/robotics/</loc>
-         <lastmod>2024-07-03</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2026-04-26</lastmod>
     </url>
     <url>
          <loc>https://www.tronix.io/robotics/tbot/</loc>
-         <lastmod>2024-07-03</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2026-04-26</lastmod>
     </url>
     <url>
          <loc>https://www.tronix.io/robotics/tcar/</loc>
-         <lastmod>2024-07-03</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2026-04-26</lastmod>
     </url>
     <url>
          <loc>https://www.tronix.io/tools/</loc>
-         <lastmod>2024-07-03</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2026-04-26</lastmod>
     </url>
     <url>
          <loc>https://www.tronix.io/tools/markdown/</loc>
-         <lastmod>2024-07-03</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2026-04-26</lastmod>
     </url>
     <url>
          <loc>https://www.tronix.io/tools/mplabx-customize/</loc>
-         <lastmod>2024-07-03</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2026-04-26</lastmod>
     </url>
     <url>
          <loc>https://www.tronix.io/tools/mplabx-hello/</loc>
-         <lastmod>2024-07-03</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2026-04-26</lastmod>
     </url>
     <url>
          <loc>https://www.tronix.io/tools/mplabx-programmers/</loc>
-         <lastmod>2024-07-03</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2026-04-26</lastmod>
     </url>
     <url>
          <loc>https://www.tronix.io/tools/mplabx-project/</loc>
-         <lastmod>2024-07-03</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2026-04-26</lastmod>
     </url>
     <url>
          <loc>https://www.tronix.io/tools/mplabx-simulator/</loc>
-         <lastmod>2024-07-03</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2026-04-26</lastmod>
     </url>
 </urlset>
